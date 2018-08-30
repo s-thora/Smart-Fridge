@@ -16,9 +16,7 @@ public class Main {
     public static void main(String[] args) throws SQLException, IOException {
 
         String url = "jdbc:postgresql://localhost:5432/postgres";
-
         String username = "username";
-
         String password = "password";
 
         try (Connection connection = DriverManager.getConnection(url, username, password)) {
