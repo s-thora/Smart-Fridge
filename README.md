@@ -5,7 +5,7 @@ System for Smart Fridge is designed for use in restaurnts.
 It keeps the grocery inventory based on users' actions
 i.e. grocery insertion, ejection, and edition of the information about items in use.
 
-The system is not purposed for real usage but only for leaning how to create such a systems as soon as it is a school project.
+The system is not purposed for real use but only for leaning how to create such a systems as soon as it is a school project.
 
 Detailed information on the project is provided in the report document.
 
@@ -67,5 +67,6 @@ The application is controlled using console with typing the number of an action.
 
 ## Acknowledgments
 The project was mentored by Ivor Uhliarik.
+
 The project was inspired by a sample project "Telekomunikačný systém" ("Telecommunication network") by Alexander Shanki Simko.
 
