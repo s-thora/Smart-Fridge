@@ -1,0 +1,9 @@
+*.log
+build/
+node_modules/
+.idea/
+out
+.classpath
+.project
+.settings/
+target/
